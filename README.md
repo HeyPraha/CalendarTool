@@ -1,3 +1,3 @@
 # CalendarTool
 
-Open in https://https://wxu417.github.io//CalendarTool/index.html
+Open in https://wxu417.github.io//CalendarTool/index.html
